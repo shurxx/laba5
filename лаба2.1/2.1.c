@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <Windows.h>
-
+//правка2
+//правка2
 void main()
 {
 	SetConsoleCP(1251);
